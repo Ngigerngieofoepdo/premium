@@ -4,7 +4,7 @@ import os
 from flask import Flask, jsonify
 from threading import Thread
 
-DISCORD_TOKEN = os.environ.get("MTQxNDI2NzQxMDgxMDI3Mzg5NA.GowyKx.v_WNWHCxtnIU-jUCGsakNmtMwa8vBN7Md6mMIQ")
+DISCORD_TOKEN = os.environ.get("MTQxNDI2NzQxMDgxMDI3Mzg5NA.GeyjNN.NGxtqendjOqA6yCd4SRyeo6sF9ztW6aC4NXh34")
 CHANNEL_ID =  1414041707405901987  # Replace with your Discord channel ID
 
 app = Flask(__name__)
